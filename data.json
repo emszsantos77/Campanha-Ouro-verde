@@ -1,6 +1,6 @@
 [
   {
-    "pedido_unico": "1132779",
+    "pedido_unico": "1132779.0",
     "cnpj_cpf": "37.140.396/0001-82",
     "emissao": "2026-04-10",
     "vlr_total": 43.25,
@@ -11,7 +11,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139981",
+    "pedido_unico": "1139981.0",
     "cnpj_cpf": "37.140.396/0001-82",
     "emissao": "2026-04-17",
     "vlr_total": 51.49,
@@ -22,7 +22,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1127913",
+    "pedido_unico": "1127913.0",
     "cnpj_cpf": "56.702.174/0001-50",
     "emissao": "2026-04-09",
     "vlr_total": 90.39,
@@ -33,7 +33,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1127913",
+    "pedido_unico": "1127913.0",
     "cnpj_cpf": "56.702.174/0001-50",
     "emissao": "2026-04-09",
     "vlr_total": 36.3,
@@ -44,7 +44,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1133033",
+    "pedido_unico": "1133033.0",
     "cnpj_cpf": "56.702.174/0001-50",
     "emissao": "2026-04-10",
     "vlr_total": 257.45,
@@ -55,7 +55,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1133033",
+    "pedido_unico": "1133033.0",
     "cnpj_cpf": "56.702.174/0001-50",
     "emissao": "2026-04-10",
     "vlr_total": 42.69,
@@ -66,7 +66,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139802",
+    "pedido_unico": "1139802.0",
     "cnpj_cpf": "53.418.534/0001-07",
     "emissao": "2026-04-17",
     "vlr_total": 51.49,
@@ -77,7 +77,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126720",
+    "pedido_unico": "1126720.0",
     "cnpj_cpf": "62.138.559/0001-30",
     "emissao": "2026-04-09",
     "vlr_total": 67.3,
@@ -88,7 +88,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126720",
+    "pedido_unico": "1126720.0",
     "cnpj_cpf": "62.138.559/0001-30",
     "emissao": "2026-04-09",
     "vlr_total": 35.69,
@@ -99,7 +99,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126720",
+    "pedido_unico": "1126720.0",
     "cnpj_cpf": "62.138.559/0001-30",
     "emissao": "2026-04-09",
     "vlr_total": 148.98,
@@ -110,7 +110,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126720",
+    "pedido_unico": "1126720.0",
     "cnpj_cpf": "62.138.559/0001-30",
     "emissao": "2026-04-09",
     "vlr_total": 19.38,
@@ -121,7 +121,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126720",
+    "pedido_unico": "1126720.0",
     "cnpj_cpf": "62.138.559/0001-30",
     "emissao": "2026-04-09",
     "vlr_total": 74.49,
@@ -132,7 +132,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126720",
+    "pedido_unico": "1126720.0",
     "cnpj_cpf": "62.138.559/0001-30",
     "emissao": "2026-04-09",
     "vlr_total": 41.99,
@@ -143,7 +143,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126720",
+    "pedido_unico": "1126720.0",
     "cnpj_cpf": "62.138.559/0001-30",
     "emissao": "2026-04-09",
     "vlr_total": 47.79,
@@ -154,7 +154,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126720",
+    "pedido_unico": "1126720.0",
     "cnpj_cpf": "62.138.559/0001-30",
     "emissao": "2026-04-09",
     "vlr_total": 51.19,
@@ -165,7 +165,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132859",
+    "pedido_unico": "1132859.0",
     "cnpj_cpf": "62.138.559/0001-30",
     "emissao": "2026-04-10",
     "vlr_total": 51.49,
@@ -176,7 +176,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132859",
+    "pedido_unico": "1132859.0",
     "cnpj_cpf": "62.138.559/0001-30",
     "emissao": "2026-04-10",
     "vlr_total": 35.69,
@@ -187,7 +187,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132859",
+    "pedido_unico": "1132859.0",
     "cnpj_cpf": "62.138.559/0001-30",
     "emissao": "2026-04-10",
     "vlr_total": 54.7,
@@ -198,7 +198,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132859",
+    "pedido_unico": "1132859.0",
     "cnpj_cpf": "62.138.559/0001-30",
     "emissao": "2026-04-10",
     "vlr_total": 41.99,
@@ -209,7 +209,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139845",
+    "pedido_unico": "1139845.0",
     "cnpj_cpf": "08.999.548/0001-07",
     "emissao": "2026-04-17",
     "vlr_total": 20.25,
@@ -220,7 +220,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132843",
+    "pedido_unico": "1132843.0",
     "cnpj_cpf": "04.688.801/0001-42",
     "emissao": "2026-04-10",
     "vlr_total": 102.98,
@@ -231,7 +231,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132846",
+    "pedido_unico": "1132846.0",
     "cnpj_cpf": "28.619.751/0001-00",
     "emissao": "2026-04-10",
     "vlr_total": 35.29,
@@ -242,7 +242,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126640",
+    "pedido_unico": "1126640.0",
     "cnpj_cpf": "52.652.411/0001-65",
     "emissao": "2026-04-09",
     "vlr_total": 28.29,
@@ -253,7 +253,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126640",
+    "pedido_unico": "1126640.0",
     "cnpj_cpf": "52.652.411/0001-65",
     "emissao": "2026-04-09",
     "vlr_total": 15.25,
@@ -264,7 +264,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126640",
+    "pedido_unico": "1126640.0",
     "cnpj_cpf": "52.652.411/0001-65",
     "emissao": "2026-04-09",
     "vlr_total": 29.89,
@@ -275,7 +275,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132834",
+    "pedido_unico": "1132834.0",
     "cnpj_cpf": "52.652.411/0001-65",
     "emissao": "2026-04-10",
     "vlr_total": 102.98,
@@ -286,7 +286,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139709",
+    "pedido_unico": "1139709.0",
     "cnpj_cpf": "16.661.542/0001-45",
     "emissao": "2026-04-17",
     "vlr_total": 51.49,
@@ -297,7 +297,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139709",
+    "pedido_unico": "1139709.0",
     "cnpj_cpf": "16.661.542/0001-45",
     "emissao": "2026-04-17",
     "vlr_total": 35.69,
@@ -308,7 +308,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139709",
+    "pedido_unico": "1139709.0",
     "cnpj_cpf": "16.661.542/0001-45",
     "emissao": "2026-04-17",
     "vlr_total": 41.99,
@@ -319,7 +319,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139690",
+    "pedido_unico": "1139690.0",
     "cnpj_cpf": "63.467.479/0001-90",
     "emissao": "2026-04-17",
     "vlr_total": 32.99,
@@ -330,7 +330,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139690",
+    "pedido_unico": "1139690.0",
     "cnpj_cpf": "63.467.479/0001-90",
     "emissao": "2026-04-17",
     "vlr_total": 26.89,
@@ -341,7 +341,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1116133",
+    "pedido_unico": "1116133.0",
     "cnpj_cpf": "38.203.635/0001-69",
     "emissao": "2026-04-02",
     "vlr_total": 103.56,
@@ -352,7 +352,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1127279",
+    "pedido_unico": "1127279.0",
     "cnpj_cpf": "62.353.858/0001-97",
     "emissao": "2026-04-09",
     "vlr_total": 15.99,
@@ -363,7 +363,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1127279",
+    "pedido_unico": "1127279.0",
     "cnpj_cpf": "62.353.858/0001-97",
     "emissao": "2026-04-09",
     "vlr_total": 28.69,
@@ -374,7 +374,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132988",
+    "pedido_unico": "1132988.0",
     "cnpj_cpf": "62.353.858/0001-97",
     "emissao": "2026-04-10",
     "vlr_total": 15.99,
@@ -385,7 +385,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132988",
+    "pedido_unico": "1132988.0",
     "cnpj_cpf": "62.353.858/0001-97",
     "emissao": "2026-04-10",
     "vlr_total": 35.29,
@@ -396,7 +396,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132988",
+    "pedido_unico": "1132988.0",
     "cnpj_cpf": "62.353.858/0001-97",
     "emissao": "2026-04-10",
     "vlr_total": 15.25,
@@ -407,7 +407,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132814",
+    "pedido_unico": "1132814.0",
     "cnpj_cpf": "34.800.063/0001-44",
     "emissao": "2026-04-10",
     "vlr_total": 51.49,
@@ -418,7 +418,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132814",
+    "pedido_unico": "1132814.0",
     "cnpj_cpf": "34.800.063/0001-44",
     "emissao": "2026-04-10",
     "vlr_total": 21.59,
@@ -429,7 +429,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1124299",
+    "pedido_unico": "1124299.0",
     "cnpj_cpf": "37.910.249/0001-44",
     "emissao": "2026-04-08",
     "vlr_total": 28.68,
@@ -440,7 +440,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1127392",
+    "pedido_unico": "1127392.0",
     "cnpj_cpf": "24.764.314/0001-29",
     "emissao": "2026-04-09",
     "vlr_total": 49.85,
@@ -451,7 +451,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1127392",
+    "pedido_unico": "1127392.0",
     "cnpj_cpf": "24.764.314/0001-29",
     "emissao": "2026-04-09",
     "vlr_total": 31.99,
@@ -462,7 +462,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1140143",
+    "pedido_unico": "1140143.0",
     "cnpj_cpf": "49.537.654/0001-48",
     "emissao": "2026-04-17",
     "vlr_total": 33.65,
@@ -473,7 +473,40 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1124320",
+    "pedido_unico": "1145915.0",
+    "cnpj_cpf": "49.679.944/0001-26",
+    "emissao": "2026-04-20",
+    "vlr_total": 34.29,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1145915.0",
+    "cnpj_cpf": "49.679.944/0001-26",
+    "emissao": "2026-04-20",
+    "vlr_total": 28.69,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1145915.0",
+    "cnpj_cpf": "49.679.944/0001-26",
+    "emissao": "2026-04-20",
+    "vlr_total": 16.99,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1124320.0",
     "cnpj_cpf": "41.544.419/0001-91",
     "emissao": "2026-04-08",
     "vlr_total": 53.15,
@@ -484,7 +517,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1124320",
+    "pedido_unico": "1124320.0",
     "cnpj_cpf": "41.544.419/0001-91",
     "emissao": "2026-04-08",
     "vlr_total": 20.25,
@@ -495,7 +528,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1124320",
+    "pedido_unico": "1124320.0",
     "cnpj_cpf": "41.544.419/0001-91",
     "emissao": "2026-04-08",
     "vlr_total": 29.89,
@@ -506,7 +539,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1124730",
+    "pedido_unico": "1124730.0",
     "cnpj_cpf": "60.760.736/0001-90",
     "emissao": "2026-04-08",
     "vlr_total": 33.65,
@@ -517,7 +550,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1138948",
+    "pedido_unico": "1138948.0",
     "cnpj_cpf": "55.485.287/0001-89",
     "emissao": "2026-04-16",
     "vlr_total": 56.09,
@@ -528,7 +561,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1138948",
+    "pedido_unico": "1138948.0",
     "cnpj_cpf": "55.485.287/0001-89",
     "emissao": "2026-04-16",
     "vlr_total": 24.89,
@@ -539,7 +572,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1138948",
+    "pedido_unico": "1138948.0",
     "cnpj_cpf": "55.485.287/0001-89",
     "emissao": "2026-04-16",
     "vlr_total": 18.15,
@@ -550,7 +583,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1138948",
+    "pedido_unico": "1138948.0",
     "cnpj_cpf": "55.485.287/0001-89",
     "emissao": "2026-04-16",
     "vlr_total": 43.19,
@@ -561,7 +594,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 24.29,
@@ -572,7 +605,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 15.99,
@@ -583,7 +616,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 33.65,
@@ -594,7 +627,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 37.49,
@@ -605,7 +638,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 106.3,
@@ -616,7 +649,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 40.29,
@@ -627,7 +660,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 29.49,
@@ -638,7 +671,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 22.69,
@@ -649,7 +682,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 90.39,
@@ -660,7 +693,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 28.29,
@@ -671,7 +704,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 112.29,
@@ -682,7 +715,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 35.29,
@@ -693,7 +726,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 51.49,
@@ -704,7 +737,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 21.59,
@@ -715,7 +748,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 17.99,
@@ -726,7 +759,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 32.99,
@@ -737,7 +770,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 74.49,
@@ -748,7 +781,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 28.99,
@@ -759,7 +792,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 27.35,
@@ -770,7 +803,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 44.69,
@@ -781,7 +814,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 20.25,
@@ -792,7 +825,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 107.69,
@@ -803,7 +836,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 17.89,
@@ -814,7 +847,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 19.99,
@@ -825,7 +858,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 15.25,
@@ -836,7 +869,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 16.19,
@@ -847,7 +880,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 33.25,
@@ -858,7 +891,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 71.49,
@@ -869,7 +902,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 39.39,
@@ -880,7 +913,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 24.89,
@@ -891,7 +924,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 24.45,
@@ -902,7 +935,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 43.19,
@@ -913,7 +946,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 46.65,
@@ -924,7 +957,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 16.99,
@@ -935,7 +968,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 22.89,
@@ -946,7 +979,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 52.19,
@@ -957,7 +990,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 16.79,
@@ -968,7 +1001,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 74.49,
@@ -979,7 +1012,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 33.99,
@@ -990,7 +1023,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 18.59,
@@ -1001,7 +1034,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 22.29,
@@ -1012,7 +1045,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 59.59,
@@ -1023,7 +1056,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 41.35,
@@ -1034,7 +1067,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 57.75,
@@ -1045,7 +1078,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 41.99,
@@ -1056,7 +1089,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 44.69,
@@ -1067,7 +1100,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 28.75,
@@ -1078,7 +1111,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 50.19,
@@ -1089,7 +1122,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 51.19,
@@ -1100,7 +1133,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 55.99,
@@ -1111,7 +1144,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 18.65,
@@ -1122,7 +1155,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 43.25,
@@ -1133,7 +1166,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 38.45,
@@ -1144,7 +1177,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 31.99,
@@ -1155,7 +1188,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 75.99,
@@ -1166,7 +1199,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 26.89,
@@ -1177,7 +1210,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 42.69,
@@ -1188,7 +1221,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 39.29,
@@ -1199,7 +1232,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132369",
+    "pedido_unico": "1132369.0",
     "cnpj_cpf": "45.510.978/0001-31",
     "emissao": "2026-04-10",
     "vlr_total": 9.39,
@@ -1210,7 +1243,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1131750",
+    "pedido_unico": "1131750.0",
     "cnpj_cpf": "01.408.952/0002-92",
     "emissao": "2026-04-10",
     "vlr_total": 134.79,
@@ -1221,7 +1254,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1127570",
+    "pedido_unico": "1127570.0",
     "cnpj_cpf": "11.304.488/0001-67",
     "emissao": "2026-04-10",
     "vlr_total": 19.99,
@@ -1232,7 +1265,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139425",
+    "pedido_unico": "1139425.0",
     "cnpj_cpf": "15.157.159/0001-91",
     "emissao": "2026-04-17",
     "vlr_total": 42.69,
@@ -1243,7 +1276,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139516",
+    "pedido_unico": "1139516.0",
     "cnpj_cpf": "46.100.599/0001-36",
     "emissao": "2026-04-17",
     "vlr_total": 15.99,
@@ -1254,7 +1287,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139516",
+    "pedido_unico": "1139516.0",
     "cnpj_cpf": "46.100.599/0001-36",
     "emissao": "2026-04-17",
     "vlr_total": 29.49,
@@ -1265,7 +1298,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139516",
+    "pedido_unico": "1139516.0",
     "cnpj_cpf": "46.100.599/0001-36",
     "emissao": "2026-04-17",
     "vlr_total": 35.29,
@@ -1276,7 +1309,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139516",
+    "pedido_unico": "1139516.0",
     "cnpj_cpf": "46.100.599/0001-36",
     "emissao": "2026-04-17",
     "vlr_total": 20.25,
@@ -1287,7 +1320,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139516",
+    "pedido_unico": "1139516.0",
     "cnpj_cpf": "46.100.599/0001-36",
     "emissao": "2026-04-17",
     "vlr_total": 28.69,
@@ -1298,7 +1331,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139516",
+    "pedido_unico": "1139516.0",
     "cnpj_cpf": "46.100.599/0001-36",
     "emissao": "2026-04-17",
     "vlr_total": 19.99,
@@ -1309,7 +1342,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139516",
+    "pedido_unico": "1139516.0",
     "cnpj_cpf": "46.100.599/0001-36",
     "emissao": "2026-04-17",
     "vlr_total": 15.25,
@@ -1320,7 +1353,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139516",
+    "pedido_unico": "1139516.0",
     "cnpj_cpf": "46.100.599/0001-36",
     "emissao": "2026-04-17",
     "vlr_total": 24.89,
@@ -1331,7 +1364,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1143219",
+    "pedido_unico": "1143219.0",
     "cnpj_cpf": "31.872.970/0001-00",
     "emissao": "2026-04-17",
     "vlr_total": 37.49,
@@ -1342,7 +1375,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139077",
+    "pedido_unico": "1139077.0",
     "cnpj_cpf": "04.609.099/0001-84",
     "emissao": "2026-04-16",
     "vlr_total": 18.65,
@@ -1353,7 +1386,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1129164",
+    "pedido_unico": "1129164.0",
     "cnpj_cpf": "57.963.125/0001-34",
     "emissao": "2026-04-10",
     "vlr_total": 21.59,
@@ -1364,7 +1397,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1129164",
+    "pedido_unico": "1129164.0",
     "cnpj_cpf": "57.963.125/0001-34",
     "emissao": "2026-04-10",
     "vlr_total": 32.99,
@@ -1375,7 +1408,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1129164",
+    "pedido_unico": "1129164.0",
     "cnpj_cpf": "57.963.125/0001-34",
     "emissao": "2026-04-10",
     "vlr_total": 41.35,
@@ -1386,7 +1419,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1143261",
+    "pedido_unico": "1143261.0",
     "cnpj_cpf": "31.083.441/0001-28",
     "emissao": "2026-04-17",
     "vlr_total": 24.45,
@@ -1397,7 +1430,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1143261",
+    "pedido_unico": "1143261.0",
     "cnpj_cpf": "31.083.441/0001-28",
     "emissao": "2026-04-17",
     "vlr_total": 22.89,
@@ -1408,7 +1441,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1143261",
+    "pedido_unico": "1143261.0",
     "cnpj_cpf": "31.083.441/0001-28",
     "emissao": "2026-04-17",
     "vlr_total": 16.79,
@@ -1419,7 +1452,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132895",
+    "pedido_unico": "1132895.0",
     "cnpj_cpf": "50.944.454/0001-99",
     "emissao": "2026-04-10",
     "vlr_total": 67.98,
@@ -1430,7 +1463,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1144107",
+    "pedido_unico": "1144107.0",
     "cnpj_cpf": "07.030.419/0001-35",
     "emissao": "2026-04-17",
     "vlr_total": 53.79,
@@ -1441,7 +1474,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1144107",
+    "pedido_unico": "1144107.0",
     "cnpj_cpf": "07.030.419/0001-35",
     "emissao": "2026-04-17",
     "vlr_total": 16.19,
@@ -1452,7 +1485,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1144107",
+    "pedido_unico": "1144107.0",
     "cnpj_cpf": "07.030.419/0001-35",
     "emissao": "2026-04-17",
     "vlr_total": 24.45,
@@ -1463,7 +1496,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1144107",
+    "pedido_unico": "1144107.0",
     "cnpj_cpf": "07.030.419/0001-35",
     "emissao": "2026-04-17",
     "vlr_total": 52.19,
@@ -1474,7 +1507,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1144107",
+    "pedido_unico": "1144107.0",
     "cnpj_cpf": "07.030.419/0001-35",
     "emissao": "2026-04-17",
     "vlr_total": 16.79,
@@ -1485,7 +1518,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1127100",
+    "pedido_unico": "1127100.0",
     "cnpj_cpf": "15.143.024/0001-77",
     "emissao": "2026-04-09",
     "vlr_total": 22.89,
@@ -1496,7 +1529,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1127100",
+    "pedido_unico": "1127100.0",
     "cnpj_cpf": "15.143.024/0001-77",
     "emissao": "2026-04-09",
     "vlr_total": 18.65,
@@ -1507,7 +1540,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132941",
+    "pedido_unico": "1132941.0",
     "cnpj_cpf": "15.143.024/0001-77",
     "emissao": "2026-04-10",
     "vlr_total": 51.49,
@@ -1518,7 +1551,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1122000",
+    "pedido_unico": "1122000.0",
     "cnpj_cpf": "14.849.830/0001-00",
     "emissao": "2026-04-07",
     "vlr_total": 17.89,
@@ -1529,7 +1562,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1122000",
+    "pedido_unico": "1122000.0",
     "cnpj_cpf": "14.849.830/0001-00",
     "emissao": "2026-04-07",
     "vlr_total": 40.19,
@@ -1540,7 +1573,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1122000",
+    "pedido_unico": "1122000.0",
     "cnpj_cpf": "14.849.830/0001-00",
     "emissao": "2026-04-07",
     "vlr_total": 44.69,
@@ -1551,7 +1584,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1122000",
+    "pedido_unico": "1122000.0",
     "cnpj_cpf": "14.849.830/0001-00",
     "emissao": "2026-04-07",
     "vlr_total": 143.37,
@@ -1562,7 +1595,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1122000",
+    "pedido_unico": "1122000.0",
     "cnpj_cpf": "14.849.830/0001-00",
     "emissao": "2026-04-07",
     "vlr_total": 86.38,
@@ -1573,7 +1606,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1122119",
+    "pedido_unico": "1122119.0",
     "cnpj_cpf": "08.116.247/0001-80",
     "emissao": "2026-04-07",
     "vlr_total": 23.35,
@@ -1584,7 +1617,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1122119",
+    "pedido_unico": "1122119.0",
     "cnpj_cpf": "08.116.247/0001-80",
     "emissao": "2026-04-07",
     "vlr_total": 51.49,
@@ -1595,7 +1628,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1122119",
+    "pedido_unico": "1122119.0",
     "cnpj_cpf": "08.116.247/0001-80",
     "emissao": "2026-04-07",
     "vlr_total": 18.65,
@@ -1606,7 +1639,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1136156",
+    "pedido_unico": "1136156.0",
     "cnpj_cpf": "08.116.247/0001-80",
     "emissao": "2026-04-14",
     "vlr_total": 23.35,
@@ -1617,7 +1650,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1136156",
+    "pedido_unico": "1136156.0",
     "cnpj_cpf": "08.116.247/0001-80",
     "emissao": "2026-04-14",
     "vlr_total": 51.49,
@@ -1628,7 +1661,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1136156",
+    "pedido_unico": "1136156.0",
     "cnpj_cpf": "08.116.247/0001-80",
     "emissao": "2026-04-14",
     "vlr_total": 18.65,
@@ -1639,7 +1672,73 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1136180",
+    "pedido_unico": "1147415.0",
+    "cnpj_cpf": "49.937.911/0001-39",
+    "emissao": "2026-04-22",
+    "vlr_total": 33.65,
+    "nome_vendedor": "AROLDO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147415.0",
+    "cnpj_cpf": "49.937.911/0001-39",
+    "emissao": "2026-04-22",
+    "vlr_total": 53.15,
+    "nome_vendedor": "AROLDO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147415.0",
+    "cnpj_cpf": "49.937.911/0001-39",
+    "emissao": "2026-04-22",
+    "vlr_total": 29.49,
+    "nome_vendedor": "AROLDO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147415.0",
+    "cnpj_cpf": "49.937.911/0001-39",
+    "emissao": "2026-04-22",
+    "vlr_total": 34.29,
+    "nome_vendedor": "AROLDO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147415.0",
+    "cnpj_cpf": "49.937.911/0001-39",
+    "emissao": "2026-04-22",
+    "vlr_total": 21.59,
+    "nome_vendedor": "AROLDO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147415.0",
+    "cnpj_cpf": "49.937.911/0001-39",
+    "emissao": "2026-04-22",
+    "vlr_total": 29.89,
+    "nome_vendedor": "AROLDO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1136180.0",
     "cnpj_cpf": "62.305.343/0001-11",
     "emissao": "2026-04-14",
     "vlr_total": 15.25,
@@ -1650,7 +1749,18 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1140150",
+    "pedido_unico": "1147408.0",
+    "cnpj_cpf": "62.305.343/0001-11",
+    "emissao": "2026-04-22",
+    "vlr_total": 33.99,
+    "nome_vendedor": "AROLDO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1140150.0",
     "cnpj_cpf": "42.056.909/0001-01",
     "emissao": "2026-04-17",
     "vlr_total": 24.79,
@@ -1661,7 +1771,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1140162",
+    "pedido_unico": "1140162.0",
     "cnpj_cpf": "97.535.265/0001-26",
     "emissao": "2026-04-17",
     "vlr_total": 71.38,
@@ -1672,7 +1782,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139778",
+    "pedido_unico": "1139778.0",
     "cnpj_cpf": "03.576.860/0001-66",
     "emissao": "2026-04-17",
     "vlr_total": 37.49,
@@ -1683,7 +1793,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139778",
+    "pedido_unico": "1139778.0",
     "cnpj_cpf": "03.576.860/0001-66",
     "emissao": "2026-04-17",
     "vlr_total": 40.29,
@@ -1694,7 +1804,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139778",
+    "pedido_unico": "1139778.0",
     "cnpj_cpf": "03.576.860/0001-66",
     "emissao": "2026-04-17",
     "vlr_total": 15.25,
@@ -1705,7 +1815,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139778",
+    "pedido_unico": "1139778.0",
     "cnpj_cpf": "03.576.860/0001-66",
     "emissao": "2026-04-17",
     "vlr_total": 18.65,
@@ -1716,7 +1826,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126588",
+    "pedido_unico": "1126588.0",
     "cnpj_cpf": "45.443.195/0001-82",
     "emissao": "2026-04-09",
     "vlr_total": 15.99,
@@ -1727,7 +1837,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126588",
+    "pedido_unico": "1126588.0",
     "cnpj_cpf": "45.443.195/0001-82",
     "emissao": "2026-04-09",
     "vlr_total": 90.39,
@@ -1738,7 +1848,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126588",
+    "pedido_unico": "1126588.0",
     "cnpj_cpf": "45.443.195/0001-82",
     "emissao": "2026-04-09",
     "vlr_total": 51.49,
@@ -1749,7 +1859,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126588",
+    "pedido_unico": "1126588.0",
     "cnpj_cpf": "45.443.195/0001-82",
     "emissao": "2026-04-09",
     "vlr_total": 53.79,
@@ -1760,7 +1870,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126588",
+    "pedido_unico": "1126588.0",
     "cnpj_cpf": "45.443.195/0001-82",
     "emissao": "2026-04-09",
     "vlr_total": 47.79,
@@ -1771,7 +1881,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126588",
+    "pedido_unico": "1126588.0",
     "cnpj_cpf": "45.443.195/0001-82",
     "emissao": "2026-04-09",
     "vlr_total": 43.19,
@@ -1782,7 +1892,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139902",
+    "pedido_unico": "1139902.0",
     "cnpj_cpf": "60.892.641/0001-20",
     "emissao": "2026-04-17",
     "vlr_total": 15.25,
@@ -1793,7 +1903,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139902",
+    "pedido_unico": "1139902.0",
     "cnpj_cpf": "60.892.641/0001-20",
     "emissao": "2026-04-17",
     "vlr_total": 22.89,
@@ -1804,7 +1914,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139902",
+    "pedido_unico": "1139902.0",
     "cnpj_cpf": "60.892.641/0001-20",
     "emissao": "2026-04-17",
     "vlr_total": 43.19,
@@ -1815,7 +1925,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139902",
+    "pedido_unico": "1139902.0",
     "cnpj_cpf": "60.892.641/0001-20",
     "emissao": "2026-04-17",
     "vlr_total": 31.99,
@@ -1826,7 +1936,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132882",
+    "pedido_unico": "1132882.0",
     "cnpj_cpf": "399.286.675-00",
     "emissao": "2026-04-10",
     "vlr_total": 51.49,
@@ -1837,7 +1947,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139759",
+    "pedido_unico": "1139759.0",
     "cnpj_cpf": "05.868.329/0001-92",
     "emissao": "2026-04-17",
     "vlr_total": 51.49,
@@ -1848,7 +1958,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139759",
+    "pedido_unico": "1139759.0",
     "cnpj_cpf": "05.868.329/0001-92",
     "emissao": "2026-04-17",
     "vlr_total": 20.25,
@@ -1859,7 +1969,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139759",
+    "pedido_unico": "1139759.0",
     "cnpj_cpf": "05.868.329/0001-92",
     "emissao": "2026-04-17",
     "vlr_total": 43.25,
@@ -1870,7 +1980,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1125128",
+    "pedido_unico": "1125128.0",
     "cnpj_cpf": "62.282.594/0001-28",
     "emissao": "2026-04-08",
     "vlr_total": 28.58,
@@ -1881,7 +1991,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1133081",
+    "pedido_unico": "1133081.0",
     "cnpj_cpf": "18.806.096/0001-45",
     "emissao": "2026-04-10",
     "vlr_total": 102.98,
@@ -1892,7 +2002,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1124281",
+    "pedido_unico": "1124281.0",
     "cnpj_cpf": "54.302.185/0001-18",
     "emissao": "2026-04-08",
     "vlr_total": 51.49,
@@ -1903,7 +2013,29 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1136933",
+    "pedido_unico": "1147079.0",
+    "cnpj_cpf": "54.302.185/0001-18",
+    "emissao": "2026-04-22",
+    "vlr_total": 51.49,
+    "nome_vendedor": "GABRIEL PEREIRA",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147069.0",
+    "cnpj_cpf": "58.246.730/0001-57",
+    "emissao": "2026-04-22",
+    "vlr_total": 51.49,
+    "nome_vendedor": "GABRIEL PEREIRA",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1136933.0",
     "cnpj_cpf": "035.789.355-73",
     "emissao": "2026-04-15",
     "vlr_total": 37.49,
@@ -1914,7 +2046,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1144639",
+    "pedido_unico": "1144639.0",
     "cnpj_cpf": "51.350.173/0001-70",
     "emissao": "2026-04-17",
     "vlr_total": 54.7,
@@ -1925,7 +2057,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132918",
+    "pedido_unico": "1132918.0",
     "cnpj_cpf": "32.143.517/0001-26",
     "emissao": "2026-04-10",
     "vlr_total": 571.92,
@@ -1936,7 +2068,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139124",
+    "pedido_unico": "1139124.0",
     "cnpj_cpf": "37.295.197/0001-43",
     "emissao": "2026-04-16",
     "vlr_total": 17.89,
@@ -1947,7 +2079,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139124",
+    "pedido_unico": "1139124.0",
     "cnpj_cpf": "37.295.197/0001-43",
     "emissao": "2026-04-16",
     "vlr_total": 32.38,
@@ -1958,7 +2090,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1127620",
+    "pedido_unico": "1127620.0",
     "cnpj_cpf": "23.646.589/0001-03",
     "emissao": "2026-04-09",
     "vlr_total": 20.25,
@@ -1969,7 +2101,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139122",
+    "pedido_unico": "1139122.0",
     "cnpj_cpf": "41.350.473/0001-04",
     "emissao": "2026-04-16",
     "vlr_total": 29.49,
@@ -1980,7 +2112,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1117362",
+    "pedido_unico": "1117362.0",
     "cnpj_cpf": "61.898.242/0001-39",
     "emissao": "2026-04-02",
     "vlr_total": 21.59,
@@ -1991,7 +2123,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1117362",
+    "pedido_unico": "1117362.0",
     "cnpj_cpf": "61.898.242/0001-39",
     "emissao": "2026-04-02",
     "vlr_total": 17.89,
@@ -2002,7 +2134,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1117362",
+    "pedido_unico": "1117362.0",
     "cnpj_cpf": "61.898.242/0001-39",
     "emissao": "2026-04-02",
     "vlr_total": 18.15,
@@ -2013,7 +2145,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1144548",
+    "pedido_unico": "1144548.0",
     "cnpj_cpf": "26.104.065/0001-70",
     "emissao": "2026-04-17",
     "vlr_total": 19.99,
@@ -2024,7 +2156,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1144548",
+    "pedido_unico": "1144548.0",
     "cnpj_cpf": "26.104.065/0001-70",
     "emissao": "2026-04-17",
     "vlr_total": 20.89,
@@ -2035,7 +2167,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126556",
+    "pedido_unico": "1126556.0",
     "cnpj_cpf": "58.673.812/0001-88",
     "emissao": "2026-04-09",
     "vlr_total": 15.99,
@@ -2046,7 +2178,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1140048",
+    "pedido_unico": "1140048.0",
     "cnpj_cpf": "58.673.812/0001-88",
     "emissao": "2026-04-17",
     "vlr_total": 32.99,
@@ -2057,7 +2189,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1140048",
+    "pedido_unico": "1140048.0",
     "cnpj_cpf": "58.673.812/0001-88",
     "emissao": "2026-04-17",
     "vlr_total": 41.35,
@@ -2068,7 +2200,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1140048",
+    "pedido_unico": "1140048.0",
     "cnpj_cpf": "58.673.812/0001-88",
     "emissao": "2026-04-17",
     "vlr_total": 43.25,
@@ -2079,7 +2211,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1118431",
+    "pedido_unico": "1118431.0",
     "cnpj_cpf": "39.273.989/0001-42",
     "emissao": "2026-04-02",
     "vlr_total": 24.29,
@@ -2090,7 +2222,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1118431",
+    "pedido_unico": "1118431.0",
     "cnpj_cpf": "39.273.989/0001-42",
     "emissao": "2026-04-02",
     "vlr_total": 57.75,
@@ -2101,7 +2233,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1131428",
+    "pedido_unico": "1131428.0",
     "cnpj_cpf": "39.273.989/0001-42",
     "emissao": "2026-04-10",
     "vlr_total": 28.69,
@@ -2112,7 +2244,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1131428",
+    "pedido_unico": "1131428.0",
     "cnpj_cpf": "39.273.989/0001-42",
     "emissao": "2026-04-10",
     "vlr_total": 18.65,
@@ -2123,7 +2255,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132713",
+    "pedido_unico": "1132713.0",
     "cnpj_cpf": "39.273.989/0001-42",
     "emissao": "2026-04-10",
     "vlr_total": 15.25,
@@ -2134,7 +2266,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132713",
+    "pedido_unico": "1132713.0",
     "cnpj_cpf": "39.273.989/0001-42",
     "emissao": "2026-04-10",
     "vlr_total": 33.99,
@@ -2145,7 +2277,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1144055",
+    "pedido_unico": "1144055.0",
     "cnpj_cpf": "39.273.989/0001-42",
     "emissao": "2026-04-17",
     "vlr_total": 15.99,
@@ -2156,7 +2288,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1144055",
+    "pedido_unico": "1144055.0",
     "cnpj_cpf": "39.273.989/0001-42",
     "emissao": "2026-04-17",
     "vlr_total": 46.65,
@@ -2167,7 +2299,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1144055",
+    "pedido_unico": "1144055.0",
     "cnpj_cpf": "39.273.989/0001-42",
     "emissao": "2026-04-17",
     "vlr_total": 59.59,
@@ -2178,7 +2310,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1118429",
+    "pedido_unico": "1118429.0",
     "cnpj_cpf": "05.871.333/0001-00",
     "emissao": "2026-04-02",
     "vlr_total": 23.35,
@@ -2189,7 +2321,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1143994",
+    "pedido_unico": "1143994.0",
     "cnpj_cpf": "05.871.333/0001-00",
     "emissao": "2026-04-17",
     "vlr_total": 19.99,
@@ -2200,7 +2332,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1131515",
+    "pedido_unico": "1131515.0",
     "cnpj_cpf": "13.100.282/0001-40",
     "emissao": "2026-04-10",
     "vlr_total": 23.35,
@@ -2211,7 +2343,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1131515",
+    "pedido_unico": "1131515.0",
     "cnpj_cpf": "13.100.282/0001-40",
     "emissao": "2026-04-10",
     "vlr_total": 41.35,
@@ -2222,7 +2354,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1143993",
+    "pedido_unico": "1143993.0",
     "cnpj_cpf": "13.100.282/0001-40",
     "emissao": "2026-04-17",
     "vlr_total": 15.99,
@@ -2233,7 +2365,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1143993",
+    "pedido_unico": "1143993.0",
     "cnpj_cpf": "13.100.282/0001-40",
     "emissao": "2026-04-17",
     "vlr_total": 28.69,
@@ -2244,7 +2376,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126553",
+    "pedido_unico": "1126553.0",
     "cnpj_cpf": "14.385.939/0001-26",
     "emissao": "2026-04-09",
     "vlr_total": 29.49,
@@ -2255,7 +2387,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126553",
+    "pedido_unico": "1126553.0",
     "cnpj_cpf": "14.385.939/0001-26",
     "emissao": "2026-04-09",
     "vlr_total": 56.09,
@@ -2266,7 +2398,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126553",
+    "pedido_unico": "1126553.0",
     "cnpj_cpf": "14.385.939/0001-26",
     "emissao": "2026-04-09",
     "vlr_total": 18.65,
@@ -2277,7 +2409,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126553",
+    "pedido_unico": "1126553.0",
     "cnpj_cpf": "14.385.939/0001-26",
     "emissao": "2026-04-09",
     "vlr_total": 18.65,
@@ -2288,7 +2420,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126553",
+    "pedido_unico": "1126553.0",
     "cnpj_cpf": "14.385.939/0001-26",
     "emissao": "2026-04-09",
     "vlr_total": 43.25,
@@ -2299,7 +2431,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126551",
+    "pedido_unico": "1126551.0",
     "cnpj_cpf": "17.508.259/0001-40",
     "emissao": "2026-04-09",
     "vlr_total": 48.65,
@@ -2310,7 +2442,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126551",
+    "pedido_unico": "1126551.0",
     "cnpj_cpf": "17.508.259/0001-40",
     "emissao": "2026-04-09",
     "vlr_total": 112.18,
@@ -2321,7 +2453,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126551",
+    "pedido_unico": "1126551.0",
     "cnpj_cpf": "17.508.259/0001-40",
     "emissao": "2026-04-09",
     "vlr_total": 60.39,
@@ -2332,7 +2464,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126548",
+    "pedido_unico": "1126548.0",
     "cnpj_cpf": "39.510.552/0001-85",
     "emissao": "2026-04-09",
     "vlr_total": 51.49,
@@ -2343,7 +2475,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126548",
+    "pedido_unico": "1126548.0",
     "cnpj_cpf": "39.510.552/0001-85",
     "emissao": "2026-04-09",
     "vlr_total": 15.25,
@@ -2354,7 +2486,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126548",
+    "pedido_unico": "1126548.0",
     "cnpj_cpf": "39.510.552/0001-85",
     "emissao": "2026-04-09",
     "vlr_total": 16.99,
@@ -2365,7 +2497,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126548",
+    "pedido_unico": "1126548.0",
     "cnpj_cpf": "39.510.552/0001-85",
     "emissao": "2026-04-09",
     "vlr_total": 20.89,
@@ -2376,7 +2508,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126548",
+    "pedido_unico": "1126548.0",
     "cnpj_cpf": "39.510.552/0001-85",
     "emissao": "2026-04-09",
     "vlr_total": 18.15,
@@ -2387,7 +2519,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132697",
+    "pedido_unico": "1132697.0",
     "cnpj_cpf": "39.510.552/0001-85",
     "emissao": "2026-04-10",
     "vlr_total": 34.29,
@@ -2398,7 +2530,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126552",
+    "pedido_unico": "1126552.0",
     "cnpj_cpf": "26.795.259/0001-60",
     "emissao": "2026-04-09",
     "vlr_total": 28.69,
@@ -2409,7 +2541,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126762",
+    "pedido_unico": "1126762.0",
     "cnpj_cpf": "51.471.186/0001-06",
     "emissao": "2026-04-09",
     "vlr_total": 29.49,
@@ -2420,7 +2552,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126762",
+    "pedido_unico": "1126762.0",
     "cnpj_cpf": "51.471.186/0001-06",
     "emissao": "2026-04-09",
     "vlr_total": 21.59,
@@ -2431,7 +2563,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121941",
+    "pedido_unico": "1121941.0",
     "cnpj_cpf": "58.600.745/0001-71",
     "emissao": "2026-04-07",
     "vlr_total": 51.49,
@@ -2442,7 +2574,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121941",
+    "pedido_unico": "1121941.0",
     "cnpj_cpf": "58.600.745/0001-71",
     "emissao": "2026-04-07",
     "vlr_total": 28.99,
@@ -2453,7 +2585,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121941",
+    "pedido_unico": "1121941.0",
     "cnpj_cpf": "58.600.745/0001-71",
     "emissao": "2026-04-07",
     "vlr_total": 20.25,
@@ -2464,7 +2596,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121941",
+    "pedido_unico": "1121941.0",
     "cnpj_cpf": "58.600.745/0001-71",
     "emissao": "2026-04-07",
     "vlr_total": 39.39,
@@ -2475,7 +2607,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121941",
+    "pedido_unico": "1121941.0",
     "cnpj_cpf": "58.600.745/0001-71",
     "emissao": "2026-04-07",
     "vlr_total": 41.29,
@@ -2486,7 +2618,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121941",
+    "pedido_unico": "1121941.0",
     "cnpj_cpf": "58.600.745/0001-71",
     "emissao": "2026-04-07",
     "vlr_total": 18.65,
@@ -2497,7 +2629,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121941",
+    "pedido_unico": "1121941.0",
     "cnpj_cpf": "58.600.745/0001-71",
     "emissao": "2026-04-07",
     "vlr_total": 22.89,
@@ -2508,7 +2640,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121941",
+    "pedido_unico": "1121941.0",
     "cnpj_cpf": "58.600.745/0001-71",
     "emissao": "2026-04-07",
     "vlr_total": 29.89,
@@ -2519,7 +2651,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121941",
+    "pedido_unico": "1121941.0",
     "cnpj_cpf": "58.600.745/0001-71",
     "emissao": "2026-04-07",
     "vlr_total": 20.89,
@@ -2530,7 +2662,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121941",
+    "pedido_unico": "1121941.0",
     "cnpj_cpf": "58.600.745/0001-71",
     "emissao": "2026-04-07",
     "vlr_total": 18.65,
@@ -2541,7 +2673,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121941",
+    "pedido_unico": "1121941.0",
     "cnpj_cpf": "58.600.745/0001-71",
     "emissao": "2026-04-07",
     "vlr_total": 43.25,
@@ -2552,7 +2684,18 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121913",
+    "pedido_unico": "1147318.0",
+    "cnpj_cpf": "58.600.745/0001-71",
+    "emissao": "2026-04-22",
+    "vlr_total": 51.78,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1121913.0",
     "cnpj_cpf": "41.892.560/0001-85",
     "emissao": "2026-04-07",
     "vlr_total": 53.15,
@@ -2563,7 +2706,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121913",
+    "pedido_unico": "1121913.0",
     "cnpj_cpf": "41.892.560/0001-85",
     "emissao": "2026-04-07",
     "vlr_total": 23.35,
@@ -2574,7 +2717,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121913",
+    "pedido_unico": "1121913.0",
     "cnpj_cpf": "41.892.560/0001-85",
     "emissao": "2026-04-07",
     "vlr_total": 35.69,
@@ -2585,7 +2728,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121913",
+    "pedido_unico": "1121913.0",
     "cnpj_cpf": "41.892.560/0001-85",
     "emissao": "2026-04-07",
     "vlr_total": 28.99,
@@ -2596,7 +2739,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121913",
+    "pedido_unico": "1121913.0",
     "cnpj_cpf": "41.892.560/0001-85",
     "emissao": "2026-04-07",
     "vlr_total": 20.25,
@@ -2607,7 +2750,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121913",
+    "pedido_unico": "1121913.0",
     "cnpj_cpf": "41.892.560/0001-85",
     "emissao": "2026-04-07",
     "vlr_total": 19.99,
@@ -2618,7 +2761,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121913",
+    "pedido_unico": "1121913.0",
     "cnpj_cpf": "41.892.560/0001-85",
     "emissao": "2026-04-07",
     "vlr_total": 53.79,
@@ -2629,7 +2772,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121913",
+    "pedido_unico": "1121913.0",
     "cnpj_cpf": "41.892.560/0001-85",
     "emissao": "2026-04-07",
     "vlr_total": 41.99,
@@ -2640,7 +2783,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121913",
+    "pedido_unico": "1121913.0",
     "cnpj_cpf": "41.892.560/0001-85",
     "emissao": "2026-04-07",
     "vlr_total": 28.75,
@@ -2651,7 +2794,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121913",
+    "pedido_unico": "1121913.0",
     "cnpj_cpf": "41.892.560/0001-85",
     "emissao": "2026-04-07",
     "vlr_total": 18.65,
@@ -2662,7 +2805,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121913",
+    "pedido_unico": "1121913.0",
     "cnpj_cpf": "41.892.560/0001-85",
     "emissao": "2026-04-07",
     "vlr_total": 43.25,
@@ -2673,7 +2816,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121913",
+    "pedido_unico": "1121913.0",
     "cnpj_cpf": "41.892.560/0001-85",
     "emissao": "2026-04-07",
     "vlr_total": 75.99,
@@ -2684,7 +2827,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121913",
+    "pedido_unico": "1121913.0",
     "cnpj_cpf": "41.892.560/0001-85",
     "emissao": "2026-04-07",
     "vlr_total": 26.89,
@@ -2695,7 +2838,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1134542",
+    "pedido_unico": "1134542.0",
     "cnpj_cpf": "41.892.560/0001-85",
     "emissao": "2026-04-14",
     "vlr_total": 15.99,
@@ -2706,7 +2849,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1134542",
+    "pedido_unico": "1134542.0",
     "cnpj_cpf": "41.892.560/0001-85",
     "emissao": "2026-04-14",
     "vlr_total": 15.25,
@@ -2717,7 +2860,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1134542",
+    "pedido_unico": "1134542.0",
     "cnpj_cpf": "41.892.560/0001-85",
     "emissao": "2026-04-14",
     "vlr_total": 20.89,
@@ -2728,7 +2871,84 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121918",
+    "pedido_unico": "1147306.0",
+    "cnpj_cpf": "41.892.560/0001-85",
+    "emissao": "2026-04-22",
+    "vlr_total": 53.15,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147306.0",
+    "cnpj_cpf": "41.892.560/0001-85",
+    "emissao": "2026-04-22",
+    "vlr_total": 51.49,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147306.0",
+    "cnpj_cpf": "41.892.560/0001-85",
+    "emissao": "2026-04-22",
+    "vlr_total": 33.98,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147306.0",
+    "cnpj_cpf": "41.892.560/0001-85",
+    "emissao": "2026-04-22",
+    "vlr_total": 22.89,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147306.0",
+    "cnpj_cpf": "41.892.560/0001-85",
+    "emissao": "2026-04-22",
+    "vlr_total": 41.35,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147306.0",
+    "cnpj_cpf": "41.892.560/0001-85",
+    "emissao": "2026-04-22",
+    "vlr_total": 29.89,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147306.0",
+    "cnpj_cpf": "41.892.560/0001-85",
+    "emissao": "2026-04-22",
+    "vlr_total": 55.99,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1121918.0",
     "cnpj_cpf": "47.584.215/0001-60",
     "emissao": "2026-04-07",
     "vlr_total": 51.49,
@@ -2739,7 +2959,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1121919",
+    "pedido_unico": "1121919.0",
     "cnpj_cpf": "48.958.528/0001-02",
     "emissao": "2026-04-07",
     "vlr_total": 15.25,
@@ -2750,7 +2970,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1136324",
+    "pedido_unico": "1136324.0",
     "cnpj_cpf": "071.003.595-03",
     "emissao": "2026-04-14",
     "vlr_total": 106.3,
@@ -2761,7 +2981,194 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139914",
+    "pedido_unico": "1147940.0",
+    "cnpj_cpf": "44.470.924/0001-27",
+    "emissao": "2026-04-22",
+    "vlr_total": 15.99,
+    "nome_vendedor": "WESCKEY FONTES",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147940.0",
+    "cnpj_cpf": "44.470.924/0001-27",
+    "emissao": "2026-04-22",
+    "vlr_total": 40.29,
+    "nome_vendedor": "WESCKEY FONTES",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147940.0",
+    "cnpj_cpf": "44.470.924/0001-27",
+    "emissao": "2026-04-22",
+    "vlr_total": 21.59,
+    "nome_vendedor": "WESCKEY FONTES",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147940.0",
+    "cnpj_cpf": "44.470.924/0001-27",
+    "emissao": "2026-04-22",
+    "vlr_total": 17.99,
+    "nome_vendedor": "WESCKEY FONTES",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147940.0",
+    "cnpj_cpf": "44.470.924/0001-27",
+    "emissao": "2026-04-22",
+    "vlr_total": 32.99,
+    "nome_vendedor": "WESCKEY FONTES",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147940.0",
+    "cnpj_cpf": "44.470.924/0001-27",
+    "emissao": "2026-04-22",
+    "vlr_total": 15.25,
+    "nome_vendedor": "WESCKEY FONTES",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147940.0",
+    "cnpj_cpf": "44.470.924/0001-27",
+    "emissao": "2026-04-22",
+    "vlr_total": 16.19,
+    "nome_vendedor": "WESCKEY FONTES",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147940.0",
+    "cnpj_cpf": "44.470.924/0001-27",
+    "emissao": "2026-04-22",
+    "vlr_total": 71.49,
+    "nome_vendedor": "WESCKEY FONTES",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147940.0",
+    "cnpj_cpf": "44.470.924/0001-27",
+    "emissao": "2026-04-22",
+    "vlr_total": 39.39,
+    "nome_vendedor": "WESCKEY FONTES",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147940.0",
+    "cnpj_cpf": "44.470.924/0001-27",
+    "emissao": "2026-04-22",
+    "vlr_total": 16.99,
+    "nome_vendedor": "WESCKEY FONTES",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147940.0",
+    "cnpj_cpf": "44.470.924/0001-27",
+    "emissao": "2026-04-22",
+    "vlr_total": 18.65,
+    "nome_vendedor": "WESCKEY FONTES",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147940.0",
+    "cnpj_cpf": "44.470.924/0001-27",
+    "emissao": "2026-04-22",
+    "vlr_total": 22.89,
+    "nome_vendedor": "WESCKEY FONTES",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147940.0",
+    "cnpj_cpf": "44.470.924/0001-27",
+    "emissao": "2026-04-22",
+    "vlr_total": 52.19,
+    "nome_vendedor": "WESCKEY FONTES",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147940.0",
+    "cnpj_cpf": "44.470.924/0001-27",
+    "emissao": "2026-04-22",
+    "vlr_total": 16.79,
+    "nome_vendedor": "WESCKEY FONTES",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147940.0",
+    "cnpj_cpf": "44.470.924/0001-27",
+    "emissao": "2026-04-22",
+    "vlr_total": 18.65,
+    "nome_vendedor": "WESCKEY FONTES",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147940.0",
+    "cnpj_cpf": "44.470.924/0001-27",
+    "emissao": "2026-04-22",
+    "vlr_total": 24.79,
+    "nome_vendedor": "WESCKEY FONTES",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1147940.0",
+    "cnpj_cpf": "44.470.924/0001-27",
+    "emissao": "2026-04-22",
+    "vlr_total": 42.69,
+    "nome_vendedor": "WESCKEY FONTES",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1139914.0",
     "cnpj_cpf": "26.023.266/0001-43",
     "emissao": "2026-04-17",
     "vlr_total": 24.29,
@@ -2772,7 +3179,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139850",
+    "pedido_unico": "1139850.0",
     "cnpj_cpf": "08.092.137/0001-25",
     "emissao": "2026-04-17",
     "vlr_total": 51.49,
@@ -2783,7 +3190,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126670",
+    "pedido_unico": "1126670.0",
     "cnpj_cpf": "25.183.833/0001-66",
     "emissao": "2026-04-09",
     "vlr_total": 90.39,
@@ -2794,7 +3201,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126668",
+    "pedido_unico": "1126668.0",
     "cnpj_cpf": "53.796.155/0001-42",
     "emissao": "2026-04-09",
     "vlr_total": 33.99,
@@ -2805,7 +3212,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1132848",
+    "pedido_unico": "1132848.0",
     "cnpj_cpf": "53.796.155/0001-42",
     "emissao": "2026-04-10",
     "vlr_total": 17.99,
@@ -2816,7 +3223,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1140190",
+    "pedido_unico": "1140190.0",
     "cnpj_cpf": "62.338.099/0001-93",
     "emissao": "2026-04-17",
     "vlr_total": 46.65,
@@ -2827,7 +3234,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1140190",
+    "pedido_unico": "1140190.0",
     "cnpj_cpf": "62.338.099/0001-93",
     "emissao": "2026-04-17",
     "vlr_total": 50.19,
@@ -2838,7 +3245,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1134533",
+    "pedido_unico": "1134533.0",
     "cnpj_cpf": "13.264.442/0001-97",
     "emissao": "2026-04-14",
     "vlr_total": 17.89,
@@ -2849,7 +3256,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1134533",
+    "pedido_unico": "1134533.0",
     "cnpj_cpf": "13.264.442/0001-97",
     "emissao": "2026-04-14",
     "vlr_total": 33.99,
@@ -2860,7 +3267,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1134533",
+    "pedido_unico": "1134533.0",
     "cnpj_cpf": "13.264.442/0001-97",
     "emissao": "2026-04-14",
     "vlr_total": 29.89,
@@ -2871,7 +3278,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1134490",
+    "pedido_unico": "1134490.0",
     "cnpj_cpf": "36.606.199/0001-43",
     "emissao": "2026-04-14",
     "vlr_total": 29.49,
@@ -2882,7 +3289,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1134490",
+    "pedido_unico": "1134490.0",
     "cnpj_cpf": "36.606.199/0001-43",
     "emissao": "2026-04-14",
     "vlr_total": 56.58,
@@ -2893,7 +3300,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1134490",
+    "pedido_unico": "1134490.0",
     "cnpj_cpf": "36.606.199/0001-43",
     "emissao": "2026-04-14",
     "vlr_total": 70.58,
@@ -2904,7 +3311,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1134490",
+    "pedido_unico": "1134490.0",
     "cnpj_cpf": "36.606.199/0001-43",
     "emissao": "2026-04-14",
     "vlr_total": 43.18,
@@ -2915,7 +3322,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1134490",
+    "pedido_unico": "1134490.0",
     "cnpj_cpf": "36.606.199/0001-43",
     "emissao": "2026-04-14",
     "vlr_total": 32.99,
@@ -2926,7 +3333,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1134490",
+    "pedido_unico": "1134490.0",
     "cnpj_cpf": "36.606.199/0001-43",
     "emissao": "2026-04-14",
     "vlr_total": 33.25,
@@ -2937,7 +3344,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1134490",
+    "pedido_unico": "1134490.0",
     "cnpj_cpf": "36.606.199/0001-43",
     "emissao": "2026-04-14",
     "vlr_total": 16.79,
@@ -2948,7 +3355,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1134490",
+    "pedido_unico": "1134490.0",
     "cnpj_cpf": "36.606.199/0001-43",
     "emissao": "2026-04-14",
     "vlr_total": 29.89,
@@ -2959,7 +3366,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1134490",
+    "pedido_unico": "1134490.0",
     "cnpj_cpf": "36.606.199/0001-43",
     "emissao": "2026-04-14",
     "vlr_total": 56.79,
@@ -2970,7 +3377,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1127633",
+    "pedido_unico": "1127633.0",
     "cnpj_cpf": "07.818.514/0001-06",
     "emissao": "2026-04-09",
     "vlr_total": 60.39,
@@ -2981,7 +3388,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139125",
+    "pedido_unico": "1139125.0",
     "cnpj_cpf": "05.835.831/0001-05",
     "emissao": "2026-04-16",
     "vlr_total": 18.65,
@@ -2992,7 +3399,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1133426",
+    "pedido_unico": "1133426.0",
     "cnpj_cpf": "63.823.928/0001-96",
     "emissao": "2026-04-10",
     "vlr_total": 33.65,
@@ -3003,7 +3410,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1139101",
+    "pedido_unico": "1139101.0",
     "cnpj_cpf": "02.146.164/0001-57",
     "emissao": "2026-04-16",
     "vlr_total": 18.65,
@@ -3014,7 +3421,18 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "1126138",
+    "pedido_unico": "P311",
+    "cnpj_cpf": "02.146.164/0001-57",
+    "emissao": "2026-04-22",
+    "vlr_total": 18.65,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "supervisor": "RODRIGO PINHEIRO",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1126138.0",
     "cnpj_cpf": "64.983.982/0001-61",
     "emissao": "2026-04-10",
     "vlr_total": 51.49,
