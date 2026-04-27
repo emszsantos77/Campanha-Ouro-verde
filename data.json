@@ -209,6 +209,17 @@
     "source_file": "ouro.xlsx"
   },
   {
+    "pedido_unico": "1154235.0",
+    "cnpj_cpf": "62.138.559/0001-30",
+    "emissao": "2026-04-24",
+    "vlr_total": 123.87,
+    "nome_vendedor": "EVERALDO ALVES",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
     "pedido_unico": "1139845.0",
     "cnpj_cpf": "08.999.548/0001-07",
     "emissao": "2026-04-17",
@@ -429,10 +440,131 @@
     "source_file": "ouro.xlsx"
   },
   {
+    "pedido_unico": "1149262.0",
+    "cnpj_cpf": "27.569.438/0001-41",
+    "emissao": "2026-04-24",
+    "vlr_total": 18.65,
+    "nome_vendedor": "EVERALDO ALVES",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149262.0",
+    "cnpj_cpf": "27.569.438/0001-41",
+    "emissao": "2026-04-24",
+    "vlr_total": 59.59,
+    "nome_vendedor": "EVERALDO ALVES",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149262.0",
+    "cnpj_cpf": "27.569.438/0001-41",
+    "emissao": "2026-04-24",
+    "vlr_total": 43.25,
+    "nome_vendedor": "EVERALDO ALVES",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149262.0",
+    "cnpj_cpf": "27.569.438/0001-41",
+    "emissao": "2026-04-24",
+    "vlr_total": 26.89,
+    "nome_vendedor": "EVERALDO ALVES",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154366.0",
+    "cnpj_cpf": "27.569.438/0001-41",
+    "emissao": "2026-04-24",
+    "vlr_total": 22.89,
+    "nome_vendedor": "EVERALDO ALVES",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154366.0",
+    "cnpj_cpf": "27.569.438/0001-41",
+    "emissao": "2026-04-24",
+    "vlr_total": 18.65,
+    "nome_vendedor": "EVERALDO ALVES",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154392.0",
+    "cnpj_cpf": "59.874.500/0001-03",
+    "emissao": "2026-04-24",
+    "vlr_total": 15.99,
+    "nome_vendedor": "EVERALDO ALVES",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154392.0",
+    "cnpj_cpf": "59.874.500/0001-03",
+    "emissao": "2026-04-24",
+    "vlr_total": 20.25,
+    "nome_vendedor": "EVERALDO ALVES",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
     "pedido_unico": "1124299.0",
     "cnpj_cpf": "37.910.249/0001-44",
     "emissao": "2026-04-08",
     "vlr_total": 28.68,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1148674.0",
+    "cnpj_cpf": "64.632.117/0001-70",
+    "emissao": "2026-04-23",
+    "vlr_total": 15.99,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1148674.0",
+    "cnpj_cpf": "64.632.117/0001-70",
+    "emissao": "2026-04-23",
+    "vlr_total": 28.99,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1148674.0",
+    "cnpj_cpf": "64.632.117/0001-70",
+    "emissao": "2026-04-23",
+    "vlr_total": 20.25,
     "nome_vendedor": "BRUNO OLIVEIRA",
     "supervisor": "ANDREIA MEDEIROS",
     "gerente": "Marivaldo",
@@ -506,6 +638,17 @@
     "source_file": "ouro.xlsx"
   },
   {
+    "pedido_unico": "1148656.0",
+    "cnpj_cpf": "57.332.644/0001-02",
+    "emissao": "2026-04-23",
+    "vlr_total": 15.99,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
     "pedido_unico": "1124320.0",
     "cnpj_cpf": "41.544.419/0001-91",
     "emissao": "2026-04-08",
@@ -539,10 +682,65 @@
     "source_file": "ouro.xlsx"
   },
   {
+    "pedido_unico": "1148724.0",
+    "cnpj_cpf": "41.544.419/0001-91",
+    "emissao": "2026-04-23",
+    "vlr_total": 28.99,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
     "pedido_unico": "1124730.0",
     "cnpj_cpf": "60.760.736/0001-90",
     "emissao": "2026-04-08",
     "vlr_total": 33.65,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1148705.0",
+    "cnpj_cpf": "55.927.676/0001-17",
+    "emissao": "2026-04-23",
+    "vlr_total": 33.65,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1148705.0",
+    "cnpj_cpf": "55.927.676/0001-17",
+    "emissao": "2026-04-23",
+    "vlr_total": 29.49,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1148705.0",
+    "cnpj_cpf": "55.927.676/0001-17",
+    "emissao": "2026-04-23",
+    "vlr_total": 14.34,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1148705.0",
+    "cnpj_cpf": "55.927.676/0001-17",
+    "emissao": "2026-04-23",
+    "vlr_total": 18.65,
     "nome_vendedor": "BRUNO OLIVEIRA",
     "supervisor": "ANDREIA MEDEIROS",
     "gerente": "Marivaldo",
@@ -587,6 +785,17 @@
     "cnpj_cpf": "55.485.287/0001-89",
     "emissao": "2026-04-16",
     "vlr_total": 43.19,
+    "nome_vendedor": "ALLYS ARAUJO",
+    "supervisor": "RODRIGO PINHEIRO",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149062.0",
+    "cnpj_cpf": "61.669.017/0001-20",
+    "emissao": "2026-04-23",
+    "vlr_total": 18.15,
     "nome_vendedor": "ALLYS ARAUJO",
     "supervisor": "RODRIGO PINHEIRO",
     "gerente": "Sandro",
@@ -1419,6 +1628,39 @@
     "source_file": "ouro.xlsx"
   },
   {
+    "pedido_unico": "1153191.0",
+    "cnpj_cpf": "57.963.125/0001-34",
+    "emissao": "2026-04-24",
+    "vlr_total": 46.65,
+    "nome_vendedor": "HIAN RIBEIRO",
+    "supervisor": "GLEIDSON FIENES",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149629.0",
+    "cnpj_cpf": "26.694.941/0001-66",
+    "emissao": "2026-04-24",
+    "vlr_total": 16.99,
+    "nome_vendedor": "HIAN RIBEIRO",
+    "supervisor": "GLEIDSON FIENES",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149629.0",
+    "cnpj_cpf": "26.694.941/0001-66",
+    "emissao": "2026-04-24",
+    "vlr_total": 41.99,
+    "nome_vendedor": "HIAN RIBEIRO",
+    "supervisor": "GLEIDSON FIENES",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
     "pedido_unico": "1143261.0",
     "cnpj_cpf": "31.083.441/0001-28",
     "emissao": "2026-04-17",
@@ -1445,6 +1687,17 @@
     "cnpj_cpf": "31.083.441/0001-28",
     "emissao": "2026-04-17",
     "vlr_total": 16.79,
+    "nome_vendedor": "HIAN RIBEIRO",
+    "supervisor": "GLEIDSON FIENES",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1153212.0",
+    "cnpj_cpf": "58.881.660/0001-09",
+    "emissao": "2026-04-24",
+    "vlr_total": 18.15,
     "nome_vendedor": "HIAN RIBEIRO",
     "supervisor": "GLEIDSON FIENES",
     "gerente": "Marivaldo",
@@ -1606,6 +1859,17 @@
     "source_file": "ouro.xlsx"
   },
   {
+    "pedido_unico": "1149635.0",
+    "cnpj_cpf": "27.500.593/0001-01",
+    "emissao": "2026-04-24",
+    "vlr_total": 51.49,
+    "nome_vendedor": "AROLDO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
     "pedido_unico": "1122119.0",
     "cnpj_cpf": "08.116.247/0001-80",
     "emissao": "2026-04-07",
@@ -1760,6 +2024,94 @@
     "source_file": "ouro.xlsx"
   },
   {
+    "pedido_unico": "1152768.0",
+    "cnpj_cpf": "50.434.666/0001-26",
+    "emissao": "2026-04-24",
+    "vlr_total": 32.99,
+    "nome_vendedor": "AROLDO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1152768.0",
+    "cnpj_cpf": "50.434.666/0001-26",
+    "emissao": "2026-04-24",
+    "vlr_total": 46.65,
+    "nome_vendedor": "AROLDO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154528.0",
+    "cnpj_cpf": "50.434.666/0001-26",
+    "emissao": "2026-04-24",
+    "vlr_total": 15.99,
+    "nome_vendedor": "AROLDO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154528.0",
+    "cnpj_cpf": "50.434.666/0001-26",
+    "emissao": "2026-04-24",
+    "vlr_total": 29.49,
+    "nome_vendedor": "AROLDO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154528.0",
+    "cnpj_cpf": "50.434.666/0001-26",
+    "emissao": "2026-04-24",
+    "vlr_total": 34.29,
+    "nome_vendedor": "AROLDO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154528.0",
+    "cnpj_cpf": "50.434.666/0001-26",
+    "emissao": "2026-04-24",
+    "vlr_total": 28.99,
+    "nome_vendedor": "AROLDO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154528.0",
+    "cnpj_cpf": "50.434.666/0001-26",
+    "emissao": "2026-04-24",
+    "vlr_total": 20.25,
+    "nome_vendedor": "AROLDO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154528.0",
+    "cnpj_cpf": "50.434.666/0001-26",
+    "emissao": "2026-04-24",
+    "vlr_total": 28.69,
+    "nome_vendedor": "AROLDO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
     "pedido_unico": "1140150.0",
     "cnpj_cpf": "42.056.909/0001-01",
     "emissao": "2026-04-17",
@@ -1892,6 +2244,83 @@
     "source_file": "ouro.xlsx"
   },
   {
+    "pedido_unico": "1149236.0",
+    "cnpj_cpf": "45.443.195/0001-82",
+    "emissao": "2026-04-24",
+    "vlr_total": 55.99,
+    "nome_vendedor": "CLARA ARAUJO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154483.0",
+    "cnpj_cpf": "51.003.643/0001-20",
+    "emissao": "2026-04-24",
+    "vlr_total": 29.49,
+    "nome_vendedor": "CLARA ARAUJO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154483.0",
+    "cnpj_cpf": "51.003.643/0001-20",
+    "emissao": "2026-04-24",
+    "vlr_total": 34.29,
+    "nome_vendedor": "CLARA ARAUJO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154483.0",
+    "cnpj_cpf": "51.003.643/0001-20",
+    "emissao": "2026-04-24",
+    "vlr_total": 28.69,
+    "nome_vendedor": "CLARA ARAUJO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149190.0",
+    "cnpj_cpf": "51.003.643/0001-20",
+    "emissao": "2026-04-24",
+    "vlr_total": 51.49,
+    "nome_vendedor": "CLARA ARAUJO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149190.0",
+    "cnpj_cpf": "51.003.643/0001-20",
+    "emissao": "2026-04-24",
+    "vlr_total": 20.25,
+    "nome_vendedor": "CLARA ARAUJO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149190.0",
+    "cnpj_cpf": "51.003.643/0001-20",
+    "emissao": "2026-04-24",
+    "vlr_total": 15.25,
+    "nome_vendedor": "CLARA ARAUJO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
     "pedido_unico": "1139902.0",
     "cnpj_cpf": "60.892.641/0001-20",
     "emissao": "2026-04-17",
@@ -1980,6 +2409,116 @@
     "source_file": "ouro.xlsx"
   },
   {
+    "pedido_unico": "1154477.0",
+    "cnpj_cpf": "63.454.245/0001-09",
+    "emissao": "2026-04-24",
+    "vlr_total": 29.49,
+    "nome_vendedor": "CLARA ARAUJO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154477.0",
+    "cnpj_cpf": "63.454.245/0001-09",
+    "emissao": "2026-04-24",
+    "vlr_total": 20.25,
+    "nome_vendedor": "CLARA ARAUJO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154477.0",
+    "cnpj_cpf": "63.454.245/0001-09",
+    "emissao": "2026-04-24",
+    "vlr_total": 18.65,
+    "nome_vendedor": "CLARA ARAUJO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149241.0",
+    "cnpj_cpf": "63.454.245/0001-09",
+    "emissao": "2026-04-24",
+    "vlr_total": 28.29,
+    "nome_vendedor": "CLARA ARAUJO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149241.0",
+    "cnpj_cpf": "63.454.245/0001-09",
+    "emissao": "2026-04-24",
+    "vlr_total": 51.49,
+    "nome_vendedor": "CLARA ARAUJO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149241.0",
+    "cnpj_cpf": "63.454.245/0001-09",
+    "emissao": "2026-04-24",
+    "vlr_total": 32.99,
+    "nome_vendedor": "CLARA ARAUJO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149241.0",
+    "cnpj_cpf": "63.454.245/0001-09",
+    "emissao": "2026-04-24",
+    "vlr_total": 28.99,
+    "nome_vendedor": "CLARA ARAUJO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149241.0",
+    "cnpj_cpf": "63.454.245/0001-09",
+    "emissao": "2026-04-24",
+    "vlr_total": 15.25,
+    "nome_vendedor": "CLARA ARAUJO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149241.0",
+    "cnpj_cpf": "63.454.245/0001-09",
+    "emissao": "2026-04-24",
+    "vlr_total": 29.89,
+    "nome_vendedor": "CLARA ARAUJO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149241.0",
+    "cnpj_cpf": "63.454.245/0001-09",
+    "emissao": "2026-04-24",
+    "vlr_total": 20.89,
+    "nome_vendedor": "CLARA ARAUJO",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
     "pedido_unico": "1125128.0",
     "cnpj_cpf": "62.282.594/0001-28",
     "emissao": "2026-04-08",
@@ -1991,10 +2530,120 @@
     "source_file": "ouro.xlsx"
   },
   {
+    "pedido_unico": "1149060.0",
+    "cnpj_cpf": "51.126.788/0001-18",
+    "emissao": "2026-04-23",
+    "vlr_total": 24.29,
+    "nome_vendedor": "SHEILLA MARIANO",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149060.0",
+    "cnpj_cpf": "51.126.788/0001-18",
+    "emissao": "2026-04-23",
+    "vlr_total": 45.38,
+    "nome_vendedor": "SHEILLA MARIANO",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149060.0",
+    "cnpj_cpf": "51.126.788/0001-18",
+    "emissao": "2026-04-23",
+    "vlr_total": 20.25,
+    "nome_vendedor": "SHEILLA MARIANO",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149060.0",
+    "cnpj_cpf": "51.126.788/0001-18",
+    "emissao": "2026-04-23",
+    "vlr_total": 19.99,
+    "nome_vendedor": "SHEILLA MARIANO",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149060.0",
+    "cnpj_cpf": "51.126.788/0001-18",
+    "emissao": "2026-04-23",
+    "vlr_total": 46.65,
+    "nome_vendedor": "SHEILLA MARIANO",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149060.0",
+    "cnpj_cpf": "51.126.788/0001-18",
+    "emissao": "2026-04-23",
+    "vlr_total": 18.65,
+    "nome_vendedor": "SHEILLA MARIANO",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149060.0",
+    "cnpj_cpf": "51.126.788/0001-18",
+    "emissao": "2026-04-23",
+    "vlr_total": 22.89,
+    "nome_vendedor": "SHEILLA MARIANO",
+    "supervisor": "JEIZIANE",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
     "pedido_unico": "1133081.0",
     "cnpj_cpf": "18.806.096/0001-45",
     "emissao": "2026-04-10",
     "vlr_total": 102.98,
+    "nome_vendedor": "GABRIEL PEREIRA",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1152003.0",
+    "cnpj_cpf": "18.806.096/0001-45",
+    "emissao": "2026-04-24",
+    "vlr_total": 180.78,
+    "nome_vendedor": "GABRIEL PEREIRA",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1152003.0",
+    "cnpj_cpf": "18.806.096/0001-45",
+    "emissao": "2026-04-24",
+    "vlr_total": 102.98,
+    "nome_vendedor": "GABRIEL PEREIRA",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1152003.0",
+    "cnpj_cpf": "18.806.096/0001-45",
+    "emissao": "2026-04-24",
+    "vlr_total": 181.17,
     "nome_vendedor": "GABRIEL PEREIRA",
     "supervisor": "ANDREIA MEDEIROS",
     "gerente": "Marivaldo",
@@ -2057,6 +2706,94 @@
     "source_file": "ouro.xlsx"
   },
   {
+    "pedido_unico": "1155158.0",
+    "cnpj_cpf": "51.350.173/0001-70",
+    "emissao": "2026-04-24",
+    "vlr_total": 34.29,
+    "nome_vendedor": "EDVALDO",
+    "supervisor": "GLEIDSON FIENES",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1155158.0",
+    "cnpj_cpf": "51.350.173/0001-70",
+    "emissao": "2026-04-24",
+    "vlr_total": 28.99,
+    "nome_vendedor": "EDVALDO",
+    "supervisor": "GLEIDSON FIENES",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1155158.0",
+    "cnpj_cpf": "51.350.173/0001-70",
+    "emissao": "2026-04-24",
+    "vlr_total": 18.65,
+    "nome_vendedor": "EDVALDO",
+    "supervisor": "GLEIDSON FIENES",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1155158.0",
+    "cnpj_cpf": "51.350.173/0001-70",
+    "emissao": "2026-04-24",
+    "vlr_total": 18.65,
+    "nome_vendedor": "EDVALDO",
+    "supervisor": "GLEIDSON FIENES",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149938.0",
+    "cnpj_cpf": "51.350.173/0001-70",
+    "emissao": "2026-04-24",
+    "vlr_total": 33.65,
+    "nome_vendedor": "EDVALDO",
+    "supervisor": "GLEIDSON FIENES",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149938.0",
+    "cnpj_cpf": "51.350.173/0001-70",
+    "emissao": "2026-04-24",
+    "vlr_total": 28.29,
+    "nome_vendedor": "EDVALDO",
+    "supervisor": "GLEIDSON FIENES",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149938.0",
+    "cnpj_cpf": "51.350.173/0001-70",
+    "emissao": "2026-04-24",
+    "vlr_total": 35.29,
+    "nome_vendedor": "EDVALDO",
+    "supervisor": "GLEIDSON FIENES",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149938.0",
+    "cnpj_cpf": "51.350.173/0001-70",
+    "emissao": "2026-04-24",
+    "vlr_total": 26.89,
+    "nome_vendedor": "EDVALDO",
+    "supervisor": "GLEIDSON FIENES",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
     "pedido_unico": "1132918.0",
     "cnpj_cpf": "32.143.517/0001-26",
     "emissao": "2026-04-10",
@@ -2094,6 +2831,17 @@
     "cnpj_cpf": "23.646.589/0001-03",
     "emissao": "2026-04-09",
     "vlr_total": 20.25,
+    "nome_vendedor": "GILDASIO GAMA (128)",
+    "supervisor": "RODRIGO PINHEIRO",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149023.0",
+    "cnpj_cpf": "65.887.494/0001-13",
+    "emissao": "2026-04-23",
+    "vlr_total": 23.35,
     "nome_vendedor": "GILDASIO GAMA (128)",
     "supervisor": "RODRIGO PINHEIRO",
     "gerente": "Sandro",
@@ -2163,6 +2911,28 @@
     "nome_vendedor": "JAILTON SANTOS (140)",
     "supervisor": "RODRIGO PINHEIRO",
     "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1155134.0",
+    "cnpj_cpf": "51.042.600/0001-53",
+    "emissao": "2026-04-24",
+    "vlr_total": 115.0,
+    "nome_vendedor": "ILMA MOURA",
+    "supervisor": "ALEX",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1149856.0",
+    "cnpj_cpf": "51.042.600/0001-53",
+    "emissao": "2026-04-24",
+    "vlr_total": 28.75,
+    "nome_vendedor": "ILMA MOURA",
+    "supervisor": "ALEX",
+    "gerente": "Marivaldo",
     "grupo": "Vendas",
     "source_file": "ouro.xlsx"
   },
@@ -2310,6 +3080,83 @@
     "source_file": "ouro.xlsx"
   },
   {
+    "pedido_unico": "1152717.0",
+    "cnpj_cpf": "39.273.989/0001-42",
+    "emissao": "2026-04-24",
+    "vlr_total": 19.99,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1152717.0",
+    "cnpj_cpf": "39.273.989/0001-42",
+    "emissao": "2026-04-24",
+    "vlr_total": 50.19,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1152717.0",
+    "cnpj_cpf": "39.273.989/0001-42",
+    "emissao": "2026-04-24",
+    "vlr_total": 26.89,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154160.0",
+    "cnpj_cpf": "39.273.989/0001-42",
+    "emissao": "2026-04-24",
+    "vlr_total": 28.99,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154160.0",
+    "cnpj_cpf": "39.273.989/0001-42",
+    "emissao": "2026-04-24",
+    "vlr_total": 20.25,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154160.0",
+    "cnpj_cpf": "39.273.989/0001-42",
+    "emissao": "2026-04-24",
+    "vlr_total": 22.89,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154160.0",
+    "cnpj_cpf": "39.273.989/0001-42",
+    "emissao": "2026-04-24",
+    "vlr_total": 18.65,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
     "pedido_unico": "1118429.0",
     "cnpj_cpf": "05.871.333/0001-00",
     "emissao": "2026-04-02",
@@ -2325,6 +3172,39 @@
     "cnpj_cpf": "05.871.333/0001-00",
     "emissao": "2026-04-17",
     "vlr_total": 19.99,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1152715.0",
+    "cnpj_cpf": "05.871.333/0001-00",
+    "emissao": "2026-04-24",
+    "vlr_total": 35.29,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1152715.0",
+    "cnpj_cpf": "05.871.333/0001-00",
+    "emissao": "2026-04-24",
+    "vlr_total": 33.99,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154159.0",
+    "cnpj_cpf": "05.871.333/0001-00",
+    "emissao": "2026-04-24",
+    "vlr_total": 18.65,
     "nome_vendedor": "MAURÍCIO SILVA",
     "supervisor": "LUCAS SILVA",
     "gerente": "Sandro",
@@ -2369,6 +3249,39 @@
     "cnpj_cpf": "13.100.282/0001-40",
     "emissao": "2026-04-17",
     "vlr_total": 28.69,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1152714.0",
+    "cnpj_cpf": "52.755.523/0001-41",
+    "emissao": "2026-04-24",
+    "vlr_total": 17.99,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154158.0",
+    "cnpj_cpf": "52.755.523/0001-41",
+    "emissao": "2026-04-24",
+    "vlr_total": 28.29,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154158.0",
+    "cnpj_cpf": "52.755.523/0001-41",
+    "emissao": "2026-04-24",
+    "vlr_total": 34.29,
     "nome_vendedor": "MAURÍCIO SILVA",
     "supervisor": "LUCAS SILVA",
     "gerente": "Sandro",
@@ -2523,6 +3436,17 @@
     "cnpj_cpf": "39.510.552/0001-85",
     "emissao": "2026-04-10",
     "vlr_total": 34.29,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "supervisor": "LUCAS SILVA",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1154141.0",
+    "cnpj_cpf": "39.510.552/0001-85",
+    "emissao": "2026-04-24",
+    "vlr_total": 53.15,
     "nome_vendedor": "MAURÍCIO SILVA",
     "supervisor": "LUCAS SILVA",
     "gerente": "Sandro",
@@ -3190,6 +4114,17 @@
     "source_file": "ouro.xlsx"
   },
   {
+    "pedido_unico": "1149182.0",
+    "cnpj_cpf": "46.207.958/0001-59",
+    "emissao": "2026-04-24",
+    "vlr_total": 125.69,
+    "nome_vendedor": "ANDRÉ RODRIGUES",
+    "supervisor": "ANDREIA MEDEIROS",
+    "gerente": "Marivaldo",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
     "pedido_unico": "1126670.0",
     "cnpj_cpf": "25.183.833/0001-66",
     "emissao": "2026-04-09",
@@ -3388,9 +4323,53 @@
     "source_file": "ouro.xlsx"
   },
   {
+    "pedido_unico": "1148974.0",
+    "cnpj_cpf": "50.416.118/0001-73",
+    "emissao": "2026-04-23",
+    "vlr_total": 18.65,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "supervisor": "RODRIGO PINHEIRO",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1155595.0",
+    "cnpj_cpf": "50.416.118/0001-73",
+    "emissao": "2026-04-24",
+    "vlr_total": 56.09,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "supervisor": "RODRIGO PINHEIRO",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1155476.0",
+    "cnpj_cpf": "52.727.605/0001-82",
+    "emissao": "2026-04-24",
+    "vlr_total": 15.99,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "supervisor": "RODRIGO PINHEIRO",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
     "pedido_unico": "1139125.0",
     "cnpj_cpf": "05.835.831/0001-05",
     "emissao": "2026-04-16",
+    "vlr_total": 18.65,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "supervisor": "RODRIGO PINHEIRO",
+    "gerente": "Sandro",
+    "grupo": "Vendas",
+    "source_file": "ouro.xlsx"
+  },
+  {
+    "pedido_unico": "1155490.0",
+    "cnpj_cpf": "59.070.176/0001-62",
+    "emissao": "2026-04-24",
     "vlr_total": 18.65,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "supervisor": "RODRIGO PINHEIRO",
@@ -3421,7 +4400,7 @@
     "source_file": "ouro.xlsx"
   },
   {
-    "pedido_unico": "P311",
+    "pedido_unico": "P400",
     "cnpj_cpf": "02.146.164/0001-57",
     "emissao": "2026-04-22",
     "vlr_total": 18.65,
