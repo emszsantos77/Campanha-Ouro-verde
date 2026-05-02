@@ -286,35 +286,60 @@
     let allData        = [];
     let filteredData   = [];
     let removeNoSales  = false;
-    let selectedMonth  = 'current';
+    // active tab
     let activeTab      = 'vendedores';
 
     /* ── Config ── */
     const META_SELL_OUT = 80000;
 
+    /* FORÇAR MÊS: defina '2026-04' para forçar Abril/2026, ou null para usar mês atual dinâmico */
+    const FORCE_MONTH = '2026-04'; // <-- aqui: '2026-04' = Abril 2026; para voltar ao comportamento dinâmico use: null
+
     let campanhaTotalPeriodo = 0;
     let campanhaAtiva        = false;
 
-    /* ── Mês atual dinâmico ── */
-    const _now      = new Date();
+    /* ── Mês atual / rótulos ── */
+    const _now = new Date();
     const MESES_PT  = ['Janeiro','Fevereiro','Março','Abril','Maio','Junho',
                        'Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'];
-    const MES_ATUAL = `${_now.getFullYear()}-${String(_now.getMonth()+1).padStart(2,'0')}`;
-    const MES_ATUAL_LABEL = `${MESES_PT[_now.getMonth()]} ${_now.getFullYear()}`;
 
-    /* Preenche labels */
+    function isoToLabel(iso) {
+      if (!iso || iso.length < 7) return '';
+      const [y,m] = iso.split('-');
+      const idx = Number(m) - 1;
+      return `${MESES_PT[idx]} ${y}`;
+    }
+
+    // MES_ATUAL representa o mês "base" (padrão) usado pelo sistema.
+    const MES_ATUAL = FORCE_MONTH || `${_now.getFullYear()}-${String(_now.getMonth()+1).padStart(2,'0')}`;
+    const MES_ATUAL_LABEL = FORCE_MONTH ? isoToLabel(FORCE_MONTH) : `${MESES_PT[_now.getMonth()]} ${_now.getFullYear()}`;
+
+    // selectedMonth inicia como "current" (usa MES_ATUAL) mas se houver FORCE_MONTH iniciamos já no mês forçado
+    let selectedMonth = FORCE_MONTH ? FORCE_MONTH : 'current';
+
+    /* Preenche labels visuais */
     document.getElementById('mesAtualLabel').textContent = MES_ATUAL_LABEL;
     document.getElementById('mesAtualInfo').textContent  = MES_ATUAL_LABEL;
 
-    /* Popula select: mês atual + últimos 5 meses */
+    /* ── Popula select: se FORCE_MONTH definido, mostra como opção selecionada; também adiciona últimos 5 meses */
     (function populateSelect() {
-      monthSelect.innerHTML = `<option value="current" selected>Mês atual (${MES_ATUAL_LABEL})</option>`;
-      for (let i = 1; i <= 5; i++) {
-        const d   = new Date(_now.getFullYear(), _now.getMonth() - i, 1);
+      // se FORCE_MONTH definido, exibimos opção específica primeiro
+      if (FORCE_MONTH) {
+        monthSelect.innerHTML = `<option value="${FORCE_MONTH}" selected>${isoToLabel(FORCE_MONTH)}</option>`;
+      } else {
+        monthSelect.innerHTML = `<option value="current" selected>Mês atual (${MES_ATUAL_LABEL})</option>`;
+      }
+      // adiciona últimos 5 meses (relativos à data atual)
+      for (let i = 0; i <= 5; i++) {
+        const d = new Date(_now.getFullYear(), _now.getMonth() - i, 1);
         const val = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}`;
         const lbl = `${MESES_PT[d.getMonth()]} ${d.getFullYear()}`;
+        // evita duplicar opção se já for o FORCE_MONTH
+        if (FORCE_MONTH && val === FORCE_MONTH) continue;
         monthSelect.innerHTML += `<option value="${val}">${lbl}</option>`;
       }
+      // se FORCE_MONTH não for null e existir no select, marca como selecionado
+      if (FORCE_MONTH) monthSelect.value = FORCE_MONTH;
     })();
 
     /* ── Helpers ── */
@@ -322,21 +347,49 @@
     const safe   = v => (v == null ? '' : String(v).trim());
     const getMes = iso => (iso && iso.length >= 7) ? iso.slice(0,7) : 'unknown';
 
+    // Converte valores vindo do JSON para número (aceita number, "1234.56", "1.234,56", "R$ 1.234,56")
+    function parseVlr(v){
+      if (v == null) return 0;
+      if (typeof v === 'number') return v || 0;
+      let s = String(v).trim();
+      if (!s) return 0;
+      // remove "R$" e espaços
+      s = s.replace(/\s/g,'').replace(/R\$|r\$/g,'');
+      // remove qualquer caractere que não seja dígito, ponto, vírgula ou sinal
+      s = s.replace(/[^\d\.\,\-]/g,'');
+      // se tem ponto e vírgula - assumimos formato BR: 1.234,56 -> remove pontos e troca vírgula por ponto
+      if (s.indexOf('.') !== -1 && s.indexOf(',') !== -1){
+        s = s.replace(/\./g,'').replace(',','.');
+      } else {
+        s = s.replace(/,/g,'.');
+      }
+      const n = parseFloat(s);
+      return isNaN(n) ? 0 : n;
+    }
+
+    function getTargetMonthForCampaign() {
+      // Se o usuário selecionou "current", usamos MES_ATUAL (que pode ser forçado por FORCE_MONTH)
+      if (selectedMonth === 'current') return MES_ATUAL;
+      return selectedMonth;
+    }
+
     /* ── Filtro por mês ── */
     function filtrarPorMes(data, mes) {
-      const alvo = mes === 'current' ? MES_ATUAL : mes;
+      const alvo = (mes === 'current') ? MES_ATUAL : mes;
       return data.filter(r => r.emissao && r.emissao.startsWith(alvo));
     }
 
     /* ── KPIs ── */
     function calcKPIs(raw) {
-      const vendas = raw.reduce((s,r) => s + (Number(r.vlr_total)||0), 0);
+      const vendas = raw.reduce((s,r) => s + parseVlr(r.vlr_total), 0);
       const cnpjs  = new Set(raw.map(r => safe(r.cnpj_cpf)).filter(Boolean));
       const posit  = cnpjs.size;
       kpiVendas.textContent     = fmtBRL(vendas);
       kpiPosit.textContent      = posit;
       kpiTicket.textContent     = fmtBRL(vendas / (posit||1));
-      kpiVendasHint.textContent = `Filtro: ${MES_ATUAL_LABEL}`;
+      // mostra o rótulo do mês alvo
+      const alvoLabel = isoToLabel(getTargetMonthForCampaign());
+      kpiVendasHint.textContent = `Filtro: ${alvoLabel}`;
     }
 
     /* ── Agrupamento genérico ── */
@@ -347,7 +400,7 @@
         if (!g[key]) g[key] = { totalVendas: 0, clientesUnicos: new Set() };
         const cnpj = safe(r.cnpj_cpf);
         if (cnpj) g[key].clientesUnicos.add(cnpj);
-        g[key].totalVendas += (Number(r.vlr_total)||0);
+        g[key].totalVendas += parseVlr(r.vlr_total);
       });
       return g;
     }
@@ -410,7 +463,7 @@
       let ranking = [];
       if      (activeTab === 'vendedores')   ranking = rankVendedores(filteredData);
       else if (activeTab === 'supervisores') ranking = rankGestao(filteredData, 'supervisor');
-      else                                   ranking = rankGestao(filteredData, 'gerente');
+      else                                    ranking = rankGestao(filteredData, 'gerente');
 
       ranking.forEach((item, idx) => {
         if (removeNoSales && item.totalVendas === 0) return;
@@ -469,9 +522,7 @@
       const blob = new Blob([csv], {type:'text/csv;charset=utf-8;'});
       const url  = URL.createObjectURL(blob);
       const a    = document.createElement('a');
-      a.href = url;
-      a.download = `ranking_${activeTab}_ouroverde.csv`;
-      a.click();
+      a.href = url; a.download = `ranking_${activeTab}_ouroverde.csv`; a.click();
       URL.revokeObjectURL(url);
     }
 
@@ -482,9 +533,10 @@
         .then(data => {
           allData = data || [];
 
-          /* Gatilho: SELL OUT do mês atual */
-          const periodo = allData.filter(r => getMes(r.emissao) === MES_ATUAL);
-          campanhaTotalPeriodo = periodo.reduce((s,r) => s + (Number(r.vlr_total)||0), 0);
+          /* Gatilho: SELL OUT do mês alvo (usando FORCE_MONTH se definido) */
+          const mesAlvo = getTargetMonthForCampaign();
+          const periodo = allData.filter(r => getMes(r.emissao) === mesAlvo);
+          campanhaTotalPeriodo = periodo.reduce((s,r) => s + parseVlr(r.vlr_total), 0);
           campanhaAtiva = campanhaTotalPeriodo >= META_SELL_OUT;
 
           kpiCampanha.textContent     = fmtBRL(campanhaTotalPeriodo);
@@ -508,7 +560,14 @@
       renderRanking();
     });
     btnExportCSV.addEventListener('click', exportarCSV);
-    monthSelect.addEventListener('change', e => { selectedMonth = e.target.value; aplicarFiltro(); });
+    monthSelect.addEventListener('change', e => {
+      selectedMonth = e.target.value;
+      // atualizar rótulos se o usuário escolher um mês manualmente
+      const label = isoToLabel(getTargetMonthForCampaign());
+      document.getElementById('mesAtualInfo').textContent = label;
+      document.getElementById('mesAtualLabel').textContent = label;
+      aplicarFiltro();
+    });
     tabVendedores.addEventListener('click',   () => setTab('vendedores'));
     tabSupervisores.addEventListener('click', () => setTab('supervisores'));
     tabGerentes.addEventListener('click',     () => setTab('gerentes'));
